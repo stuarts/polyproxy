@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stuarts/polyproxy/issues"
   },
-  "homepage": "https://github.com/stuarts/polyproxy"
+  "homepage": "https://github.com/stuarts/polyproxy",
+  "dependencies": {
+    "http-proxy": "^1.6.0"
+  }
 }
